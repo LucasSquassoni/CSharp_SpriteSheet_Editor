@@ -1,0 +1,45 @@
+c:\users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojResolveAssemblyReference.cache
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.SpriteEditor.resources
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.Properties.Resources.resources
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.GenerateResource.Cache
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\lucas.squassoni\documents\visual studio 2015\Projects\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojResolveAssemblyReference.cache
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.SpriteEditor.resources
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.Properties.Resources.resources
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_WWP-7FEF01_5162\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.GenerateResource.Cache
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojResolveAssemblyReference.cache
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.SpriteEditor.resources
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.Properties.Resources.resources
+C:\Users\lucas.squassoni\Perforce\lucas.squassoni_AIE_Cletus\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.GenerateResource.Cache
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.SpriteEditor.resources
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.Properties.Resources.resources
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.GenerateResource.Cache
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\Clinic\Perforce\lucas.squassoni_TheJadePC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.SpriteEditor.resources
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.Properties.Resources.resources
+C:\Users\Lucas\lucas.squassoni_Lucas-PC_4563\lucas.squassoni_Lucas-PC\2016_Year1\Programming\Users\lucas.squassoni\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.GenerateResource.Cache
